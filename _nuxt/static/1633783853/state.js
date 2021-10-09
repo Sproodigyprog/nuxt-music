@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fnuxt-music\u002F_nuxt\u002Fstatic\u002F1633783853",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fnuxt-music\u002F",assetsPath:"\u002Fnuxt-music\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"44739cbe"}}}}(null));
